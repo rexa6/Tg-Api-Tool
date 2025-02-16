@@ -1,7 +1,7 @@
+![Banner](baner.png)
+
 ```markdown
 # Telegram API Tool 📱🔑
-
-![Banner](baner.png)
 
 This tool allows you to retrieve the `api_id` and `api_hash` of a Telegram account. 🚀
 
@@ -63,4 +63,3 @@ APIs successfully received: ✅
 ## License 📄
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
